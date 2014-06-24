@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -x
 
 echo "Starting web server on localhost 8888 ..."
 # node index.js 2>&1 &
